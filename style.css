@@ -1,0 +1,51 @@
+.farve1{
+    background-color: #dddddd;
+}
+
+.farve2{
+    background-color: #e2ff40;
+}
+
+.firkant{
+    background: lightblue;
+    padding: 6px;
+    border-radius: 8px;
+    color: #000000;
+    display: inline-block;
+    
+}
+
+.firkant1{
+    background: #dddddd;
+    padding: 6px;
+    border-radius: 8px;
+    color: #000000;
+    display: inline-block;
+    
+}
+
+
+
+.aline{
+    padding: 6px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+
+
+.midten{
+    text-align: center;
+}
+
+.right{
+    text-align: end;
+}
+
+.p1 {
+    margin: 35px;
+}
+
+.p2{
+    margin-top: 40px;
+}
